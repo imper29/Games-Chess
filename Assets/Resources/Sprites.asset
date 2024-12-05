@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61b7515df06f6404ebef01d474e70814, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  whiteTile: {fileID: 21300000, guid: 6a6c28cf57303044d857924bc290bc19, type: 3}
+  blackTile: {fileID: 21300002, guid: 6a6c28cf57303044d857924bc290bc19, type: 3}
+  white:
+    king: {fileID: 21300000, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    queen: {fileID: 21300002, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    bishop: {fileID: 21300004, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    knight: {fileID: 21300006, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    rook: {fileID: 21300008, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    pawn: {fileID: 21300010, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+  black:
+    king: {fileID: 21300012, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    queen: {fileID: 21300014, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    bishop: {fileID: 21300016, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    knight: {fileID: 21300018, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    rook: {fileID: 21300020, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
+    pawn: {fileID: 21300022, guid: 00fb35c07e945054cbd644bba987f544, type: 3}
